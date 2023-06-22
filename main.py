@@ -16,6 +16,12 @@ def main():
     print(f'The number of males and females \t {m_num} \t {f_num}')
     print(f'The percentage of males and females \t {m_perc:.2f}%  {f_perc:.2f}%')
 
+    # my GitHub Link: https://github.com/LPC-CSDept/assignment-2-1-aliahmergtr
+
+
+
+
+
     """
     ########################################
     # Do not delete the return statement
